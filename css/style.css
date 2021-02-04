@@ -17,13 +17,17 @@ body {
     typography
 ================*/
 
+.home--header h1 {
+    
+    margin-top: 3em;
+}
+
 h1 {
     
-    font-size: 2.95rem;
+    font-size: 3.5rem;
     font-weight: 900;
     text-align: center;
     letter-spacing: .05em;
-    margin-top: 4em;
     color: #033e0c;
       
 }
@@ -40,7 +44,8 @@ h1 {
     max-width: 950px;
 } 
 
-.home--header {
+.home--header,
+.home--header2{
     
     display: flex;
     justify-content: center;
