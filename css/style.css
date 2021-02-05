@@ -76,7 +76,7 @@ h1 {
 .button--contact,
 .button--order {
     
-    padding: .5em 1em;
+    padding: .25em .5em;
     margin: 0 .75em;
     border-radius: 7px;
     outline: none;
