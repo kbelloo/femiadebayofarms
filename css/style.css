@@ -222,9 +222,10 @@ select {
 .order-btn {
     
     background: #033e0c;
-    padding: .5em 1.5em;
+    padding: .5em 1.3em;
     border-radius: 5px;
     color: #fff;
+    font-size: 1.2rem
 }
 
 .order-btn:hover,
