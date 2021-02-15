@@ -308,7 +308,7 @@ select {
 
 .faq {
 
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     max-width: 800px;
 }
@@ -331,7 +331,6 @@ select {
 
 .accordion-item {
 
-    /*    background-color: #033e0c;*/
     border-radius: .4rem;
     margin-bottom: 1rem;
     padding: 1rem;
@@ -522,7 +521,7 @@ footer {
 
 .navbar-custom {
 
-    background: #1caa40;
+    background: #054c24;
     padding: .25em;
 
 }
